@@ -5,3 +5,4 @@ out
 website/
 docs-minimind/
 dataset/
+*.pth
